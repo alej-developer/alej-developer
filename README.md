@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Python programmer or full stack developer
+👯 I’m looking to collaborate on growing and stable projects.
+🤝 I’m looking for help to make my way into a new stage in the tech world
+🌱 I’m currently learning artificial intelligence.
+💬 Ask me about the immortality of the crab (bad joke).
+⚡ Fun fact, I have more stories than a truck driver.
 
 
 # 💻 Tech Stack:
