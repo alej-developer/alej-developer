@@ -123,6 +123,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "NPM",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
