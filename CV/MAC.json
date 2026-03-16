@@ -127,6 +127,10 @@
           "type": "technology"
         },
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "Claude Code",
           "type": "technology"
         },
