@@ -1,36 +1,81 @@
-# 💫 About Me:
+<img src="/assets/cv_icon.png" align="right" width="128px" />
 
-🔭 I’m currently working on Python programmer or full stack developer
+# Alejandro  Peña Montero 's CV
 
-👯 I’m looking to collaborate on growing and stable projects.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/b06a4c6c-1efa-4568-b687-a1be8bd73891).
+<br/>
+<br/>
 
-🤝 I’m looking for help to make my way into a new stage in the tech world
+<div align='center'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2026-03-16 21:26 UTC&color=brightgreen&style=for-the-badge'>
+  <a href='https://github.com/getmanfred/mac'>
+    <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
+  </a>
+  <a href='#%EF%B8%8F-license'>
+    <img src='https://img.shields.io/badge/GDPR%20Compliant-40479B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAThQTFRF////QUebQUebQUebQUebQkibQ0maREmaRUqaRUuZRkuZR0yZSE2YSU6YSk6YTFCXTlKWVFeUVVeUVliUV1mTV1mUWFqTWVqTW1ySXF2SXV6RXl+RYGCQYGCRYWGQamiNbWuMb2yLcG2LcW6Lc2+KdXGJdnKJeHSIeXSIe3aHfHeHfXeHfXiGfnmGf3mGg3yFg32Eh4CDiICDioKCjoaAj4aAkYh/lYt+npJ7oJR7ppl4ppl5qZx3q513rp92r6B1sKF1sqN0s6N0tKR0tqZzt6Zzuahyuqlyvatxv61wwK5vw7FuxbJuxrNty7dszLdsz7pr0Ltq1L5p2sNm2sNn3MVm3cZl4Mhk4Mhl48pk5cxj5sxj6M5i6tBh7NFh7tNg8dZf89de9dle9tpd+t1c+95b/N9b/+FaZsCVrgAAAAR0Uk5TAKH3+IOyXJkAAAGHSURBVFjD7dbZUsIwGAVgwFPbWgUEFQQXFgFRWcQNFVRAqLsimwsqspj3fwPvEMfWJnR0BoZz90+bL03apDEYRhllOGI0jemIyWiAzgwAYNEJOC76BjYA4PDlo7TUrViAhdib3w7wdbILwO5/iy2wAcEGqTgBcyawB8BZIY0g4xDKtXRPla6VGYfA+ThvT+nlfBw9ILpUVJdIBYgRWVLqjpPkiEgDyIQ8TisAs0+EyDQA3+qEFEew3mnxNIAt7g4rAmvuuG0QVyM7EIr/cnteE+CPSg/HUyrNw6ckH9V6Ag8hq2r9S7ekOKkFrFydRVVHcJ280ZwDARBUAeHntb95jWqTOEUJLKdUgNQyFZCrN+9sCs3nis16jgYwt4jyHhwjLTMN4MhubSsCO1tZxz8uJiHzrcwIjEDivH3i+fq+T9rnCTbAWiWFcQDiJgCMF0jVyvhfKB3IAIL7z7EZAPJBiWOcAwkSgMA7ubR0qz52JOH1PqlrS5uY5xYH/oykCeg+aI4yynDkEwtqUWMkn99xAAAAAElFTkSuQmCC'>
+  </a>
+</div>
+<br/>
+<br/>
 
-🌱 I’m currently learning artificial intelligence.
+- [Folder Structure](#-folder-structure)
+- [How can you sync your Manfred profile with your own repo](#-how-can-you-sync-your-manfred-profile-with-your-own-repo)
+- [How can you update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-can-you-update-your-cv-in-manfred)
+- [How can you update your CV in GitHub](#octocat-how-can-you-update-your-cv-in-github)
+- [Contact and Troubleshooting](#-contact-and-troubleshooting)
+- [License](#%EF%B8%8F-license)
 
-💬 Ask me about the immortality of the crab (bad joke).
+## 📁 Folder Structure
 
-⚡ Fun fact, I have more stories than a truck driver.
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
 
+    .
+    │
+    ├── CV
+    │    ├── MAC[_instance1][_language1].json
+    │    ├── ...
+    │    └── MAC[_instanceN][_languageN].json
+    │
+    ├── assets
+    │
+    └── ...
 
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
+- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alej-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alej-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alej-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔗 How can you sync your Manfred profile with your own repo
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alej-developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+1. First, you have to [create an empty repository](https://github.com/new) (public or private) in your GitHub Account.
+2. If you have a profile at Manfred ([getmanfred.com](https://www.getmanfred.com/)), you can configure the synchronization within `Settings/Data Management`.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img alt="getmanfred.com" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_sync.png?raw=true" width="600">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alej-developer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+3. You will be asked to select one repository to install the [Manfred GitHub Connector App](https://github.com/apps/manfred-github-connector). Just follow the instructions.
 
----
-[![](https://visitcount.itsvg.in/api?id=alej-developer&icon=0&color=0)](https://visitcount.itsvg.in)
+<img alt="https://github.com/apps/manfred-github-connector" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_connector.png?raw=true" width="600">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+4. **You are done!** So easy, so powerful.
+
+## Ⓜ️ How can you update your CV in Manfred
+
+Just navigate to [your profile](https://getmanfred.com/profile) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the latest updates.
+
+<img alt="Magic" src="https://media4.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif?cid=ecf05e471avdapgosxv5t0j0kovk1rr4vq59nlnapfuebgph&rid=giphy.gif&ct=g">
+
+## :octocat: How can you update your CV in GitHub
+
+Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes. [Your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
+
+## 🪠 Contact and Troubleshooting
+
+> :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
+
+For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefore, **your data won't be synchronized and we will send you an email with detailed info on the error**.
+
+You can find the full MAC definition available [here](https://github.com/getmanfred/mac/blob/master/schema/schema.json). If you have any question, please, don't hesitate to reach us at [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
+
+## ⚖️ License
+
+The CVs included in this repository contain my personal and professional data, and they can't be automatically processed without my explicit permission according to the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation).
+
+The [MAC format](https://github.com/getmanfred/mac) is free and open-source software licensed and distributed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0 International).
