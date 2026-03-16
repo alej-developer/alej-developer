@@ -123,6 +123,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Claude Code",
+          "type": "technology"
+        },
+        {
           "name": "Github",
           "type": "technology"
         },
