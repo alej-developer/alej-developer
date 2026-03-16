@@ -122,7 +122,6 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Administration",
         "Backend Developer",
         "Full-stack Developer"
       ]
