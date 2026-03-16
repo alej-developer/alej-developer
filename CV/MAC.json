@@ -127,6 +127,10 @@
           "type": "technology"
         },
         {
+          "name": "Cursor",
+          "type": "technology"
+        },
+        {
           "name": "Github",
           "type": "technology"
         },
