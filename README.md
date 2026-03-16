@@ -2,7 +2,7 @@
 
 # Alejandro  Peña Montero 's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/b06a4c6c-1efa-4568-b687-a1be8bd73891).
 <br/>
 <br/>
 
