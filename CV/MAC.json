@@ -167,12 +167,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "Pascal",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
