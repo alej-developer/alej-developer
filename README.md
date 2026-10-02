@@ -2,7 +2,7 @@
 
 **Python & Full Stack · AI Process Analyst**
 
-Diseño APIs y backends en Python (FastAPI) y full-stack, con interés especial en NLP, ética de IA y despliegues reproducibles.
+Diseño APIs y backends en Python (FastAPI) y full-stack, con foco en NLP, lingüística computacional y gobernanza / ética de IA (EU AI Act), e interés en despliegues reproducibles.
 
 ## Stack
 `Python` · `FastAPI` · `TypeScript` · `Node.js` · `Docker` · `MongoDB` · `GitHub Actions`
