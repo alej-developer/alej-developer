@@ -10,7 +10,7 @@ Diseño APIs y backends en Python (FastAPI) y full-stack, con foco en NLP, ling�
 ## Proyectos destacados
 - **[Idiolect-G2P](https://github.com/alej-developer/Idiolect-G2P)** — G2P dialectal/diacrónico al AFI, inferencia de idiolectos y dictámenes forenses (Docker + CI).
 - **[Ethical-Framework-definitions](https://github.com/alej-developer/Ethical-Framework-definitions)** — Motor de evaluación ética para PLN (sesgo dialectal, procedencia, Clean Architecture).
-- **[riofastapi](https://github.com/alej-developer/riofastapi)** — API FastAPI con CRUD de tareas, capas de seguridad y despliegue en Docker / Cloud Run.
+- **[CitedVE](https://github.com/alej-developer/citedve)** — Señales citadas sobre Venezuela con fuente primaria, fecha y enlace: Git-as-Database, validación en Python y web estática en Next.js (CI).
 
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/alejandropeña-dev/) · GitHub Issues en los repos de arriba
