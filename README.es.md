@@ -4,7 +4,7 @@
 
 Diseño APIs en Python (FastAPI) y aplicaciones full-stack. El foco está
 en NLP y lingüística computacional, LLMs y gobernanza de IA (EU AI Act).
-El código va testeado, con CI y con despliegues reproducibles en Docker.
+El código va probado, con CI y con despliegues reproducibles en Docker.
 
 **Construyendo ahora:** un proyecto de RAG con FastAPI, evals y CI.
 
